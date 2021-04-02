@@ -1,0 +1,12 @@
+{
+  "name": "dnd-store-api",
+  "version": "1.0.0",
+  "main": "server.ts",
+  "repository": "https://github.com/Eiriksgata/dnd-store-api.git",
+  "author": "Eiriksgata <2353686862@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.13.1",
+    "sequelize": "^6.5.1"
+  }
+}
