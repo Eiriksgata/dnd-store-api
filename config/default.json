@@ -1,0 +1,15 @@
+{
+  "database": {
+    "config": {
+      "host": "localhost",
+      "port": 5984,
+      "dbNmae": "dnd-store"
+    },
+    "username": "root",
+    "password": "123456",
+    "credit": {
+      "initialLimit": 50,
+      "initalDays": 1
+    }
+  }
+}
