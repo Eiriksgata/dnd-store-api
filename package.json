@@ -1,12 +1,16 @@
 {
   "name": "dnd-store-api",
   "version": "1.0.0",
-  "main": "server.ts",
+  "description": "dnd5e store api server",
+  "main": "index.ts",
   "repository": "https://github.com/Eiriksgata/dnd-store-api.git",
   "author": "Eiriksgata <2353686862@qq.com>",
+  "keywords": ["dnd5e","store","online"],
   "license": "MIT",
   "dependencies": {
+    "config": "^3.3.6",
     "koa": "^2.13.1",
-    "sequelize": "^6.5.1"
+    "sequelize": "^6.5.1",
+    "sequelize-auto-migrations": "^1.0.3"
   }
 }
